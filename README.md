@@ -2,11 +2,12 @@
 
 ## Project Overview
 This project addresses three main tasks using two approaches: one optimized for time and the other optimized for memory. The goal is to process large datasets of tweets efficiently and draw insights from them.
+
 Remember that you can find further explanation about the functions inside the `challenge.ipynb`.
 
 ## How to Run
 1. Clone this repository: `git clone https://github.com/AllanAscencio/latam-challenge.git`
-2. Decompress the .rar file
+2. Decompress the .rar file inside `tweets.json`
 3. Install the dependencies: `pip install -r requirements.txt`
 4. Run the Python files from the `challenge_de` folder or open and run `challenge.ipynb` for a detailed walkthrough.
 
